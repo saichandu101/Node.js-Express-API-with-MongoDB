@@ -1,0 +1,2 @@
+For this project, I built a simple Node.js Express API that connects to a MongoDB database to retrieve user data based on their unique user ID. The API ensures that only users with an age greater than 21 are returned, and it gracefully handles invalid ObjectId errors and non-existent users by returning appropriate error messages. This solution is designed to be efficient, scalable, and maintainable, with a focus on validating input and ensuring reliable responses.
+
